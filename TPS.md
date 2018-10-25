@@ -34,7 +34,7 @@ pypy3 cluster.py --num_shards=512 --num_slaves=128 --mine
 
 **Video URL**
 
-[URL for the video showing how you produced the above TPS.]
+https://youtu.be/zgJnpddqhRo
 
 **Output From `stats` Tool**
 ```
